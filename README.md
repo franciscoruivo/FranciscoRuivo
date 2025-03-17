@@ -1,5 +1,5 @@
 ## Hi there 👋
-ISEC - COIMBRA
+ COIMBRA
 
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -25,4 +25,4 @@ ISEC - COIMBRA
   <a href="https://www.linkedin.com/in/https://pt.linkedin.com/in/franciscocarreiraruivo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-CURRENTLY AND FOREVER LEARNING
+
