@@ -1,6 +1,6 @@
 ## Hi there 👋
 ISEC - COIMBRA
-CURRENTLY AND FOREVER LEARNING
+
 <div style="display: inline_block"><br>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -25,3 +25,4 @@ CURRENTLY AND FOREVER LEARNING
   <a href="https://www.linkedin.com/in/https://pt.linkedin.com/in/franciscocarreiraruivo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+CURRENTLY AND FOREVER LEARNING
